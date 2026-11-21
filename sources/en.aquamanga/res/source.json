@@ -1,0 +1,13 @@
+{
+	"info": {
+		"id": "en.aquamanga",
+		"name": "Aqua Manga",
+		"version": 2,
+		"url": "https://aquareader.org",
+		"contentRating": 1,
+		"languages": [
+			"en"
+		],
+		"minAppVersion": "0.7.1"
+	}
+}

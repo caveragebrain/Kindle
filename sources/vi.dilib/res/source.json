@@ -1,0 +1,13 @@
+{
+	"info": {
+		"id": "vi.dilib",
+		"name": "Digital Library",
+		"url": "https://dilib.vn",
+		"version": 3,
+		"contentRating": 1,
+		"languages": [
+			"vi"
+		],
+		"minAppVersion": "0.7.1"
+	}
+}

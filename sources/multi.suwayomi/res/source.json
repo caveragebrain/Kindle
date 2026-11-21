@@ -1,0 +1,13 @@
+{
+	"info": {
+		"id": "multi.suwayomi",
+		"name": "Suwayomi",
+		"version": 4,
+		"url": "https://github.com/Suwayomi",
+		"contentRating": 0,
+		"languages": [
+			"multi"
+		],
+		"minAppVersion": "0.7.1"
+	}
+}

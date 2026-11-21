@@ -1,0 +1,11 @@
+{
+	"info": {
+		"id": "th.upmanga",
+		"name": "Up-Manga",
+		"version": 2,
+		"url": "https://www.up-manga.com",
+		"contentRating": 1,
+		"languages": ["th"],
+		"minAppVersion": "0.8.3"
+	}
+}

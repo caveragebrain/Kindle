@@ -1,0 +1,11 @@
+{
+	"info": {
+		"id": "th.prettyfrank",
+		"name": "Pretty-Frank",
+		"version": 2,
+		"url": "https://www.pretty-frank.com",
+		"contentRating": 1,
+		"languages": ["th"],
+		"minAppVersion": "0.8.3"
+	}
+}

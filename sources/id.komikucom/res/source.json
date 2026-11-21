@@ -1,0 +1,14 @@
+{
+	"info": {
+		"id": "id.komikucom",
+		"name": "Komiku.com",
+		"version": 6,
+		"url": "https://01.komiku.asia",
+		"contentRating": 1,
+		"languages": ["id"],
+		"minAppVersion": "0.8.3"
+	},
+	"config": {
+		"breakingChangeVersion": 5
+	}
+}
