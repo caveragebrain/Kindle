@@ -1,0 +1,82 @@
+{
+  "name": "Kindle Rakuyomi EN",
+  "sources": [
+    {
+      "id": "en.weebcentral",
+      "name": "Weeb Central",
+      "version": 8,
+      "iconURL": "https://aidoku-community.github.io/sources/icons/en.weebcentral-v8.png",
+      "downloadURL": "https://aidoku-community.github.io/sources/sources/en.weebcentral-v8.aix",
+      "languages": ["en"],
+      "contentRating": 1,
+      "baseURL": "https://weebcentral.com",
+      "minAppVersion": "0.7.1"
+    },
+    {
+      "id": "multi.mangadex",
+      "name": "MangaDex",
+      "version": 15,
+      "iconURL": "https://aidoku-community.github.io/sources/icons/multi.mangadex-v15.png",
+      "downloadURL": "https://aidoku-community.github.io/sources/sources/multi.mangadex-v15.aix",
+      "languages": ["en"],
+      "contentRating": 1,
+      "baseURL": "https://mangadex.org",
+      "minAppVersion": "0.7.1"
+    },
+    {
+      "id": "multi.mangaplus",
+      "name": "MANGA Plus",
+      "version": 6,
+      "iconURL": "https://aidoku-community.github.io/sources/icons/multi.mangaplus-v6.png",
+      "downloadURL": "https://aidoku-community.github.io/sources/sources/multi.mangaplus-v6.aix",
+      "languages": ["en"],
+      "contentRating": 0,
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "minAppVersion": "0.7.2"
+    },
+    {
+      "id": "multi.mangafire",
+      "name": "MangaFire",
+      "version": 8,
+      "iconURL": "https://aidoku-community.github.io/sources/icons/multi.mangafire-v8.png",
+      "downloadURL": "https://aidoku-community.github.io/sources/sources/multi.mangafire-v8.aix",
+      "languages": ["en"],
+      "contentRating": 1,
+      "baseURL": "https://mangafire.to",
+      "minAppVersion": "0.7.1"
+    },
+    {
+      "id": "en.atsumaru",
+      "name": "Atsumaru",
+      "version": 1,
+      "iconURL": "https://aidoku-community.github.io/sources/icons/en.atsumaru-v1.png",
+      "downloadURL": "https://aidoku-community.github.io/sources/sources/en.atsumaru-v1.aix",
+      "languages": ["en"],
+      "contentRating": 1,
+      "baseURL": "https://atsu.moe",
+      "minAppVersion": "0.7.1"
+    },
+    {
+      "id": "en.comix",
+      "name": "Comix",
+      "version": 27,
+      "iconURL": "https://aidoku-community.github.io/sources/icons/en.comix-v27.png",
+      "downloadURL": "https://aidoku-community.github.io/sources/sources/en.comix-v27.aix",
+      "languages": ["en"],
+      "contentRating": 1,
+      "baseURL": "https://comix.to",
+      "minAppVersion": "0.8.4"
+    },
+    {
+      "id": "en.mangabat",
+      "name": "MangaBat",
+      "version": 9,
+      "iconURL": "https://aidoku-community.github.io/sources/icons/en.mangabat-v9.png",
+      "downloadURL": "https://aidoku-community.github.io/sources/sources/en.mangabat-v9.aix",
+      "languages": ["en"],
+      "contentRating": 1,
+      "baseURL": "https://www.mangabats.com",
+      "minAppVersion": "0.7.1"
+    }
+  ]
+}
