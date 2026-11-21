@@ -57,6 +57,17 @@
       "minAppVersion": "0.7.1"
     },
     {
+      "id": "en.chikari",
+      "name": "Chikari",
+      "version": 3,
+      "iconURL": "https://aidoku-community.github.io/sources/icons/en.chikari-v3.png",
+      "downloadURL": "https://aidoku-community.github.io/sources/sources/en.chikari-v3.aix",
+      "languages": ["en"],
+      "contentRating": 1,
+      "baseURL": "https://chikari.moe",
+      "minAppVersion": "0.8.3"
+    },
+    {
       "id": "en.comix",
       "name": "Comix",
       "version": 27,
